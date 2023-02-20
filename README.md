@@ -47,8 +47,9 @@
 - headshot
 - self-introduction
 - Final reflections 
-
-[how to apply a various machine learning methods to solve social science issues?]
+ - intellectual growth
+ - professional growth
+ - living a purposeful life
 
 ## References
 
