@@ -8,6 +8,9 @@
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
+ 
+Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
+
   - [Application Scenario (Data Source)]
   - [Methodology]
   - [Results]
