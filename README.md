@@ -90,25 +90,25 @@
 
 -Mind map
 ![image](spotlight/mindmap.png)
-### Figure No.1 Mind map of the article
+#### Figure No.1 Mind map of the article
 
 - Decision tree
 ![image](spotlight/decision_tree.png)
-### Figure No.2 Decision tree of the article
+#### Figure No.2 Decision tree of the article
 
 - Finding
 ![image](spotlight/findings.png)
-### Figure No.3 Findings of the article
+#### Figure No.3 Findings of the article
 
 - Figures
 ![image](spotlight/1.png)
-### Figure No.4 CEX Visulization
+#### Figure No.4 CEX Visulization
 
 ![image](spotlight/2.png)
-### Figure No.5 DEX Visulization
+#### Figure No.5 DEX Visulization
 
 ![image](spotlight/3.png)
-### Figure No.6 CEX and DEX flow
+#### Figure No.6 CEX and DEX flow
 
 
 ## More about the Author
