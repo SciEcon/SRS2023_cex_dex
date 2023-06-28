@@ -21,6 +21,7 @@
 ### Meta Data Infomation
 
 | Data Files  | Data Type | Data Content |
+| ------------- | ------------- | ------------- |
 | [cex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_inflow.csv) | Queried_Data | CEX inflow data |
 | [cex_outflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_outflow.csv) | Queried_Data | CEX outflow data |
 | [dex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/dex_inflow.csv) | Queried_Data | DEX inflow data |
@@ -33,6 +34,7 @@
 ### Data Dictionary
 
 | File Name  | Variable Name | Description | Frecuency | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [cex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_inflow.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
@@ -75,6 +77,7 @@
 
 ### Code Dictionary
 | File name  | Type |
+| ------------- | ------------- |
 | [cex_query](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/code/Query_data/cex_query.ipynb) | Query_data |
 | [dex_query](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/code/Query_data/dex_query.ipynb) | Query_data|
 | [process_data](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/code/Process_data/process_data.ipynb) | Process_data |
