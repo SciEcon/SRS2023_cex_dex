@@ -35,19 +35,19 @@
 
 | File Name  | Variable Name | Description | Frecuency | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [cex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_inflow.csv)| Date | date | daily | 1 day | int |
+|[cex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_inflow.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
-| [cex_outflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_outflow.csv)| Date | date | daily | 1 day | int |
+|[cex_outflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/cex_outflow.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
-| [dex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/dex_inflow.csv)| Date | date | daily | 1 day | int |
+|[dex_inflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/dex_inflow.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
-| [dex_outflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/dex_outflow.csv)| Date | date | daily | 1 day | int |
+|[dex_outflow](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Queried_Data/dex_outflow.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
@@ -61,11 +61,11 @@
 |  | TOTAL_USD_VOLUMES | total transaction volumes | daily | USD | float |
 |  | TOTAL_FEES | total transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | total transactions | daily | 1 | int |
-| [cex_process](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Processed_Data/cex_process.csv)| Date | date | daily | 1 day | int |
+|[cex_process](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Processed_Data/cex_process.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
-| [dex_process](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Processed_Data/dex_process.csv)| Date | date | daily | 1 day | int |
+|[dex_process](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/data/Processed_Data/dex_process.csv)| Date | date | daily | 1 day | int |
 |  | USD_VOLUMES | transaction volumes | daily | USD | float |
 |  | FEES | transaction fees | daily | USD | float |
 |  | TOTAL_TRANSACTIONS | transaction | daily | 1 | int |
