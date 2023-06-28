@@ -13,6 +13,11 @@
 - spotlight
 - more about the author
 - references
+- [Data](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#data)
+- [Code](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#code)
+- [Spotlight](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#spotlight)
+- [More about the Author](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#more-about-the-author)
+- [References](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#references)
 
 
 ## Data
