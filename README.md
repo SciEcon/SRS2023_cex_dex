@@ -5,7 +5,7 @@
 - **Disclaimer**: Submissions to the SciEcon Innovate for SRS 2023 instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: My sincere appreciation to SciEcon Insights and its directors: Prof. Luyao Zhang, Xinyu Tian, Wanlin Deng, Zesen Zhuang, and Xintong WU.
 - **Project Summary**: 
-  This project takes the ETH token as an example. It selects two months before and after the FTX collapse as the time nodes to analyze the transaction indicators such as transaction volume (in USD), transaction fees, and transactions in CEX and DEX, investigate the correlation between the indicators, explore users' preference for CEX and DEX, and provide the development direction for future cryptocurrency exchanges. First, this research analyzed the ETH token flow of CEX and DEX, considering the migration in both inflow and outflow directions, and presented the changes of each transaction indicator over time by drawing a graph. Then, it performed the correlation test and Granger causality test (Engle and C. W. J. Granger 1987) (Ante and Saggu 2023) for the data analysis of the trading indicators therein. Also, the analysis of liquid trading between CEX and DEX focused on the changes in trading indicators before and after the FTX collapse incident. Finally, it summarized the results obtained from the above study to provide a comprehensive overview of the trading situation of CEX and DEX and analyze the future direction of cryptocurrency exchanges. This study helps users understand the cryptocurrency market better and supports informed decision-making by examining the trends between the CEX and DEX platforms and their distribution.
+  This project takes the ETH token as an example. It selects two months before and after the FTX collapse as the time nodes to analyze the transaction indicators such as transaction volume (in USD), transaction fees, and transactions in CEX and DEX, investigate the correlation between the indicators, explore users' preference for CEX and DEX, and provide the development direction for future cryptocurrency exchanges. First, this research analyzed the ETH token flow of CEX and DEX, considering the migration in both inflow and outflow directions, and presented the changes of each transaction indicator over time by drawing a graph. Then, it performed the correlation test and Granger causality test (Engle and C. W. J. Granger 1987) (Ante and Saggu 2023) for the data analysis of the trading indicators therein. Also, the analysis of liquid trading between CEX and DEX focused on the changes in trading indicators before and after the FTX collapse incident. Finally, it summarized the results obtained from the above study to provide a comprehensive overview of the trading situation of CEX and DEX and analyze the future direction of cryptocurrency exchanges. This study helps users understand the cryptocurrency market better and supports informed decision-making by examining the trends between the CEX and DEX platforms and their distribution. And thus proposes a possible collaborative system of centralized and decentralized finance. (Qin et al. 2021).
 
 ## Table of Contents
 - [Data](https://github.com/SciEcon/SRS2023_cex_dex/blob/main/README.md#data)
@@ -127,6 +127,8 @@ Xintong Wu is a student in the Class of 2025 at Duke Kunshan University, majorin
 - Ante, Lennart, and Aman Saggu. 2023. “Time-Varying Bidirectional Causal Relationships between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network.” SSRN Electronic Journal 29. https://doi.org/10.2139/ssrn.4400040.
 
 - Engle, Robert F., and C. W. J. Granger. 1987. “Co-Integration and Error Correction: Representation, Estimation, and Testing.” Econometrica 55 (2): 251–76. https://doi.org/10.2307/1913236.
+
+- Qin, Kaihua, Liyi Zhou, Yaroslav Afonin, Ludovico Lazzaretti, and Arthur Gervais. 2021. “CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance.” ArXiv:2106.08157 [Cs, Q-Fin], June. https://arxiv.org/abs/2106.08157.
 ```
 @article{ante2023time,
   title={Time-Varying Bidirectional Causal Relationships between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network},
@@ -142,6 +144,13 @@ Xintong Wu is a student in the Class of 2025 at Duke Kunshan University, majorin
   volume={55},
   pages={251--276},
   year={1987}
+}
+
+@article{qin2021cefi,
+  title={CeFi vs. DeFi--Comparing Centralized to Decentralized Finance},
+  author={Qin, Kaihua and Zhou, Liyi and Afonin, Yaroslav and Lazzaretti, Ludovico and Gervais, Arthur},
+  journal={arXiv preprint arXiv:2106.08157},
+  year={2021}
 }
 ```
 
