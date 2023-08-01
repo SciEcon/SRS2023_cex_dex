@@ -1,6 +1,8 @@
 # Exploring Centralized and Decentralized Cryptocurrency Exchanges - Analyzing ETH Token Trading on Centralized and Decentralized Cryptocurrency Exchanges
 Disclaimer: This article is a final deliverable from Prof. Luyao Zhang’s project entitled “From ‘Code is Law’ to ‘Code and Law’: A Comparative Study on Blockchain Governance,” supported by the 2023 Summer Research Scholarship (SRS) program at Duke Kunshan University. SciEcon wholeheartedly supports DKU’s noble mission of advancing interdisciplinary research and fostering integrated talents. Our support is solely focused on promoting academic excellence and knowledge exchange. SciEcon does not seek any financial gains, property rights, or branding privileges from DKU. Moreover, individuals involved in this philanthropy event perform their roles independently at DKU and SciEcon.
 
+Read the article on Medium: [https://medium.com/sciecon-innovate/dynamics-of-centralized-and-decentralized-cryptocurrency-exchanges-83f777023609](https://medium.com/sciecon-innovate/dynamics-of-centralized-and-decentralized-cryptocurrency-exchanges-83f777023609)
+
 ## Project information
 - **Author**: Xintong Wu, Computation and Design, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
